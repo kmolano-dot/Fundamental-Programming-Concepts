@@ -1,0 +1,10 @@
+P1;Laptop;351.0
+P2;Smartphone;814.2
+P3;Tablet;844.78
+P4;Monitor;147.68
+P5;Keyboard;518.23
+P6;Mouse;351.94
+P7;Headphones;982.2
+P8;Printer;816.94
+P9;Scanner;249.82
+P10;Camera;79.4
