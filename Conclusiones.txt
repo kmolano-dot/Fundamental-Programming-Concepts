@@ -1,0 +1,34 @@
+Este proyecto de desarrollo en Java representó para nuestro grupo de estudiantes una oportunidad invaluable para llevar la teoría del aula a un contexto práctico y real. Durante las semanas de trabajo, nos enfrentamos al reto de crear un sistema completo que no solo cumpliera con especificaciones técnicas específicas, sino que también nos preparara para los desafíos del desarrollo de software en entornos colaborativos. Desde la primera línea de código hasta la última prueba de integración, cada fase del proyecto nos enseñó lecciones importantes sobre programación, organización y trabajo en equipo.
+
+Tuvimos que aprender a distribuir tareas eficientemente, coordinar horarios entre miembros del grupo con diferentes disponibilidades, y establecer protocolos claros para la integración de código usando Git. Más allá de los aspectos técnicos, descubrimos la importancia de la comunicación constante y la paciencia para resolver desacuerdos metodológicos. El proyecto se convirtió en un microcosmos de lo que será nuestra vida profesional, donde los plazos, la calidad del código y la capacidad de colaboración son igualmente importantes.
+
+El proceso nos permitió entender cómo se construye software de principio a fin: desde el análisis de requisitos y el diseño de la arquitectura, hasta la implementación, pruebas y documentación. Experimentamos de primera mano cómo un problema aparentemente simple puede requerir múltiples iteraciones para ser resuelto correctamente, y cómo la perseverancia y el trabajo metódico siempre dan frutos.
+
+A continuación, presentamos un recuento detallado de los aprendizajes, aplicaciones y dificultades más significativas que encontramos en este recorrido:
+
+Aprendizajes durante el desarrollo del proyecto:
+
+-Nos dimos cuenta de la importancia de planear bien el código desde el inicio. Al principio, tuvimos que rehacer algunas partes por no tener una estructura clara, pero luego aprendimos a diseñar clases bien organizadas y a documentar cada paso.
+
+-Manipular archivos y generar reportes CSV nos enseñó a trabajar con datos reales, algo que no siempre se practica con ejercicios más simples.
+
+-Usar Git fue un aprendizaje clave. Al comienzo tuvimos conflictos al mezclar el código, pero con el tiempo creamos una dinámica de trabajo que nos permitió colaborar sin pisarnos los cambios.
+
+Aplicaciones profesionales:
+
+-Ahora tenemos más claro cómo se usan este tipo de programas en empresas reales: para analizar ventas, llevar control de productos o incluso para apoyar la toma de decisiones.
+
+-Aprender a trabajar en equipo con herramientas como Git es algo que valoramos mucho, pues sabemos que será esencial en cualquier trabajo relacionado con el desarrollo de software.
+
+-Saber escribir código claro y documentado no es solo para que el profe entienda, sino para que otros compañeros o futuros empleadores puedan darle mantenimiento a lo que hicimos.
+
+Dificultades presentadas:
+
+-La parte más complicada fue sin duda la lógica para juntar y ordenar la información de todos los archivos. Tuvimos que pensar mucho y probar varias soluciones hasta que funcionara.
+
+-Al trabajar en equipo, a veces se nos duplicaban funciones o no estábamos sincronizados. Aprendimos que la comunicación constante es necesaria para no perder tiempo.
+
+-Generar datos de prueba que fueran creíbles también nos dio trabajo, pero nos obligó a considerar casos que no habíamos previsto, como productos que no existen o cantidades negativas.
+
+En resumen, este proyecto nos dejó una gran enseñanza técnica y humana. Aprendimos a ser más organizados, a resolver problemas en grupo y a valorar el proceso de desarrollo como algo iterativo y en constante mejora. Estamos seguros de que estas experiencias nos serán útiles en los retos que vengan más adelante.
+
