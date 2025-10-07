@@ -1,4 +1,7 @@
-Este proyecto de desarrollo en Java representó para nuestro grupo de estudiantes una oportunidad invaluable para llevar la teoría del aula a un contexto práctico y real. Durante las semanas de trabajo, nos enfrentamos al reto de crear un sistema completo que no solo cumpliera con especificaciones técnicas específicas, sino que también nos preparara para los desafíos del desarrollo de software en entornos colaborativos. Desde la primera línea de código hasta la última prueba de integración, cada fase del proyecto nos enseñó lecciones importantes sobre programación, organización y trabajo en equipo.
+Este proyecto de desarrollo en Java representó para nuestro grupo de estudiantes una oportunidad invaluable para llevar la teoría del aula a un contexto práctico y real. 
+Durante las semanas de trabajo, nos enfrentamos al reto de crear un sistema completo que no solo cumpliera con especificaciones técnicas específicas,
+sino que también nos preparara para los desafíos del desarrollo de software en entornos colaborativos. Desde la primera línea de código hasta la última prueba de integración, 
+cada fase del proyecto nos enseñó lecciones importantes sobre programación, organización y trabajo en equipo.
 
 Tuvimos que aprender a distribuir tareas eficientemente, coordinar horarios entre miembros del grupo con diferentes disponibilidades, y establecer protocolos claros para la integración de código usando Git. Más allá de los aspectos técnicos, descubrimos la importancia de la comunicación constante y la paciencia para resolver desacuerdos metodológicos. El proyecto se convirtió en un microcosmos de lo que será nuestra vida profesional, donde los plazos, la calidad del código y la capacidad de colaboración son igualmente importantes.
 
@@ -31,4 +34,5 @@ Dificultades presentadas:
 -Generar datos de prueba que fueran creíbles también nos dio trabajo, pero nos obligó a considerar casos que no habíamos previsto, como productos que no existen o cantidades negativas.
 
 En resumen, este proyecto nos dejó una gran enseñanza técnica y humana. Aprendimos a ser más organizados, a resolver problemas en grupo y a valorar el proceso de desarrollo como algo iterativo y en constante mejora. Estamos seguros de que estas experiencias nos serán útiles en los retos que vengan más adelante.
+
 
